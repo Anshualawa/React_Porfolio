@@ -1,0 +1,45 @@
+{
+    "education": [
+        {
+            "qualification": "Bachelor of engineering",
+            "institution": "SCHOOL OF ENGINEERING TECHNOLOGY",
+            "board": "Vikram University",
+            "city": "Ujjain",
+            "percentag": "71.10%",
+            "year": "2016-2020"
+        },
+        {
+            "qualification": "Intermediate",
+            "institution": "GOVT HIGH SCHOOL",
+            "board": "MP board bhopal",
+            "city": "Manawar",
+            "percentag": "58%",
+            "year": "2015-2016"
+        },
+        {
+            "qualification": "Bachelor of engineering",
+            "institution": "GOVT HIGH SCHOOL",
+            "board": "MP board bhopal",
+            "city": "Umarban",
+            "percentag": "53%",
+            "year": "2013-2014"
+        }
+    ],
+    "certificats": [
+        {
+            "title": "Frontend Developer React",
+            "details": "I have complite this Certification from Hacker Rank",
+            "img": "./certificate/frontend_developer_react certificate-1-1.png"
+        },
+        {
+            "title": "Javascript Intermediate",
+            "details": "I have complite this Certification from Hacker Rank",
+            "img": "./certificate/javascript_intermediate certificate-1.png"
+        },
+        {
+            "title": "Rest API Intermediate",
+            "details": "I have complite this Certification from Hacker Rank",
+            "img": "./certificate/rest_api_intermediate certificate-1.png"
+        }
+    ]
+}
